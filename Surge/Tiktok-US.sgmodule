@@ -1,3 +1,5 @@
+#!name=Tiktok Unlock(US)
+#!desc=Tiktok Unlock(US)
 [URL Rewrite]
 
 (?<=_region=)CN(?=&) US 307
